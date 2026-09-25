@@ -6,8 +6,7 @@
 
 ---
 
-I'm a Ph.D. student at the **Institute for Network Sciences and Cyberspace, Tsinghua University**, advised by [Prof. Xia Yin](https://www.cs.tsinghua.edu.cn/csen/info/1309/4354.htm), with research guidance from [Xingang Shi](https://www.insc.tsinghua.edu.cn/inscen/info/1255/1087.htm).
-
+I'm a Ph.D. student at the **Institute for Network Sciences and Cyberspace, Tsinghua University**, advised by [Prof. Xia Yin](https://www.cs.tsinghua.edu.cn/csen/info/1309/4354.htm).
 Previously, I received my B.Eng. from the Department of Computer Science and Technology at Tsinghua University in 2023.
 
 ## 🔬 Research
@@ -18,10 +17,8 @@ I study **Internet measurement, observability, cyberspace mapping, and routing s
 
 **Parade: Unified and Data-Driven PrefixAS Semantics for BGP Anomaly Detection**  
 ACM CCS 2026 · First author · [💻 Code](https://github.com/weiyz23/CCS26-Parade)
-
 **GlassMiner: Mining Looking Glass Services via Structure-Semantics Fusion for Web Observability**  
 The Web Conference (WWW) 2026 · First author · [📄 Paper](https://dl.acm.org/doi/10.1145/3774904.3792698)
-
 **ACME++: A Secure Authorization Mechanism for ACME Clients in the Web PKI Ecosystem**  
 The Web Conference (WWW) 2025 · Co-author · [📄 Paper](https://dl.acm.org/doi/10.1145/3696410.3714763)
 
