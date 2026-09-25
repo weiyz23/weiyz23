@@ -1,12 +1,8 @@
-# Hi, I'm Yunze Wei (卫蕴泽) 👋
-
-**Ph.D. Student @ Tsinghua University · Also known as Rixton**
+# Hi, I'm Yunze Wei (卫蕴泽) · Also known as Rixton 👋
 
 🌐 Exploring the Internet, singing in harmony, and going the distance.
-
 [🏠 Homepage](https://weiyz23.github.io/) ·
 [📬 Email](mailto:weiyz23@mails.tsinghua.edu.cn) ·
-[🆔 ORCID](https://orcid.org/0009-0004-8126-7248)
 
 ---
 
@@ -21,23 +17,13 @@ I study **Internet measurement, observability, cyberspace mapping, and routing s
 ## 📝 Selected Publications
 
 **Parade: Unified and Data-Driven PrefixAS Semantics for BGP Anomaly Detection**  
-ACM CCS 2026 · First author  
-[💻 Code](https://github.com/weiyz23/CCS26-Parade)
+ACM CCS 2026 · First author · [💻 Code](https://github.com/weiyz23/CCS26-Parade)
 
 **GlassMiner: Mining Looking Glass Services via Structure-Semantics Fusion for Web Observability**  
-The Web Conference (WWW) 2026 · First author  
-[📄 Paper](https://dl.acm.org/doi/10.1145/3774904.3792698)
+The Web Conference (WWW) 2026 · First author · [📄 Paper](https://dl.acm.org/doi/10.1145/3774904.3792698)
 
 **ACME++: A Secure Authorization Mechanism for ACME Clients in the Web PKI Ecosystem**  
-The Web Conference (WWW) 2025 · Co-author  
-[📄 Paper](https://dl.acm.org/doi/10.1145/3696410.3714763)
-
-## 🛠️ Research Meets Code
-
-**Languages:** Python · C / C++ · Rust · Java  
-**Methods:** Network measurement · Graph learning · LLM-based agents
-
-Beyond my current research, I've worked on educational knowledge graphs and contributed to AtlasGraph's distributed cluster framework in Rust.
+The Web Conference (WWW) 2025 · Co-author · [📄 Paper](https://dl.acm.org/doi/10.1145/3696410.3714763)
 
 ## 🎵 Beyond Research
 
